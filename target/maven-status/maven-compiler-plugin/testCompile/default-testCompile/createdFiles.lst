@@ -1,0 +1,7 @@
+InfoDaoTest.class
+org\leftchildren\dao\OwnerDaoTest.class
+org\leftchildren\service\impl\PointApplyServiceImplTest.class
+org\leftchildren\dao\PointApplyDaoTest.class
+org\leftchildren\dao\PointDaoTest.class
+org\leftchildren\dao\VolunteerDaoTest.class
+org\leftchildren\enums\ApplyStatEnumTest.class
