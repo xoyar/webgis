@@ -1,6 +1,7 @@
 ### leftchildrenMap
 基于WebGIS的留守儿童求助信息共享平台
-
+###对此项目进行的二次开发###
+原地址：https://github.com/LiuKay/leftchildrenMap
 
 涉及技术：
 - SpringMVC + Mybatis
